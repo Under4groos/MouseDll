@@ -1,4 +1,8 @@
 <pre>
+    <div stayle = "width: 100%;
+            height: 40;
+            background-color: rgb(255, 255, 255);
+            border-radius: 0px 0px 10px 10px;"></div>
     <div class="container">
         <div class="block two first">
             <h2>Your title</h2>
