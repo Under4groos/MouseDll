@@ -6,3 +6,5 @@ MouseDll.Mouse.RightClick()
 MouseDll.Mouse.MiddleClick()
 MouseDll.Mouse.GetColorPixel()
 ```
+# License
+MIT - do whatever you want.
